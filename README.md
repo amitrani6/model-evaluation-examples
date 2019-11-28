@@ -1,3 +1,3 @@
-# Time Series Examples
+# Model Evaluation Examples
 
-A repository that holds examples of time series analysis.
+A repository that holds examples of how to evaluate models.
